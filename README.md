@@ -11,7 +11,6 @@ Welcome to the **Text Classification for Spam Detection** repository! This proje
 4. [Project Files](#project-files)
 5. [How to Run](#how-to-run)
 6. [Results](#results)
-7. [References](#references)
 
 ---
 
