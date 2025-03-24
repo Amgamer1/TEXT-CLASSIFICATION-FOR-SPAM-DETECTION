@@ -51,23 +51,22 @@ These datasets are included repository
   - Stored as 'Spamhamdata.csv' for Spam-Ham Dataset
   - Stored as 'Spambase.data' for Spambase Dataset
 - **Models used**:
--
--
--
--
--
--
--
--
--
--
--
--
-- - **Scripts**:
-  - `classification_code_1.py`: Implements baseline models.
-  - `.py`: Features advanced techniques and model tuning.
- 
-  
+  - nb_model_spam.pkl
+  - nb_model_spamham.pkl
+  - nb_model_spambase.pkl
+  - scaler_spambase.pkl
+  - svm_model_spam.pkl
+  - svm_model_spambase.pkl
+  - svm_model_spamham.pkl
+  - vectorizer_spam.pkl
+  - vectorizer_spamham.pkl
+- **Scripts**:
+  - `Sms spam detection small dataset.py`: Implements baseline model.
+  - `Spambase dataset.py`: Implements baseline model.
+  - `Spamham dataset.py`: Implements baseline model.
+  - `Classify new messages for spam and soamham.py`: Model testing
+  - `Classify new messages for spambase dataset.py`: Model testing
+    
 ---
 
 ## How to Run
@@ -81,26 +80,27 @@ These datasets are included repository
    ```
 3. Run the scripts:
    ```bash
-   python Classify new messages for spam and emails.py
+   python Sms spam detection small dataset.py
    ```
-   or
+   and
    
    ```bash
-   python Classify new messages for spambase dataset.py
+   python Spambase dataset.py
    ```
    and
     ```bash
-   python Classify new messages for spambase dataset.py
+   python Spamham dataset.py
    ```
-   and
+   then run:
+   
    ```bash
-   python Classify new messages for spambase dataset.py
+   python Classify new messages for spam and spamham.py
    ```
    and
     ```bash
    python Classify new messages for spambase dataset.py
    ```
-   and
+
 
    
 ---
