@@ -112,12 +112,4 @@ These datasets are included repository
 
 ---
 
-## References
-- Python libraries documentation:
-  - [Scikit-learn](https://scikit-learn.org/)
-  - [Pandas](https://pandas.pydata.org/)
-  - [NumPy](https://numpy.org/)
-
----
-
 Thank you for exploring this repository!
