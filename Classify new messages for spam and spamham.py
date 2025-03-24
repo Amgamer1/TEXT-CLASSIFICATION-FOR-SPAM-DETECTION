@@ -13,7 +13,7 @@ def preprocess_text(text):
     tokens = [stemmer.stem(word) for word in text.split() if word not in stop_words]
     return ' '.join(tokens)
 
-# Select dataset: 'spam' or 'email_origin'
+# Select dataset: 'spam' or 'spamham'
 dataset_choice = input("Choose dataset ('spam' or 'spamham'): ").strip().lower()
 
 if dataset_choice == 'spam':
