@@ -113,7 +113,6 @@ These datasets are included repository
 ---
 
 ## References
-- Original datasets were sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
 - Python libraries documentation:
   - [Scikit-learn](https://scikit-learn.org/)
   - [Pandas](https://pandas.pydata.org/)
