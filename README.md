@@ -47,10 +47,27 @@ These datasets are included repository
 
 ## Project Files
 - **Datasets**:
-  - Stored in the `datasets/` directory.
-- **Scripts**:
+  - Stored as 'Spam.csv' for SMS Spam Collection
+  - Stored as 'Spamhamdata.csv' for Spam-Ham Dataset
+  - Stored as 'Spambase.data' for Spambase Dataset
+- **Models used**:
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- - **Scripts**:
   - `classification_code_1.py`: Implements baseline models.
-  - `classification_code_2.py`: Features advanced techniques and model tuning.
+  - `.py`: Features advanced techniques and model tuning.
+ 
+  
 ---
 
 ## How to Run
