@@ -51,10 +51,6 @@ These datasets are included in the `datasets/` directory.
 - **Scripts**:
   - `classification_code_1.py`: Implements baseline models.
   - `classification_code_2.py`: Features advanced techniques and model tuning.
-- **Reports**:
-  - `Spam Detection Report.pdf`: Detailed report on the project.
-  - `Spam Detection Report Slides.pptx`: Final presentation slides.
-
 ---
 
 ## How to Run
@@ -68,13 +64,28 @@ These datasets are included in the `datasets/` directory.
    ```
 3. Run the scripts:
    ```bash
-   python classification_code_1.py
+   python Classify new messages for spam and emails.py
    ```
    or
+   
    ```bash
-   python classification_code_2.py
+   python Classify new messages for spambase dataset.py
    ```
+   and
+    ```bash
+   python Classify new messages for spambase dataset.py
+   ```
+   and
+   ```bash
+   python Classify new messages for spambase dataset.py
+   ```
+   and
+    ```bash
+   python Classify new messages for spambase dataset.py
+   ```
+   and
 
+   
 ---
 
 ## Results
