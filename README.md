@@ -26,7 +26,7 @@ The project uses the following datasets:
 2. **Spam-Ham Dataset**: Contains labeled text data for spam and ham classification.
 3. **Spambase Dataset**: Features extracted from email data, categorized into spam or non-spam.
 
-These datasets are included in the `datasets/` directory.
+These datasets are included repository
 
 ---
 
