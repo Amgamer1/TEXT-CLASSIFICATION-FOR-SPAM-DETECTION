@@ -60,8 +60,7 @@ These datasets are included in the `datasets/` directory.
 ## How to Run
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/Amgamer1/TEXT-CLASSIFICATION-FOR-SPAM-DETECTION.git
-   cd TEXT-CLASSIFICATION-FOR-SPAM-DETECTION](https://github.com/Amgamer1/TEXT-CLASSIFICATION-FOR-SPAM-DETECTION.git)
+   https://github.com/Amgamer1/TEXT-CLASSIFICATION-FOR-SPAM-DETECTION.git
    ```
 2. Install dependencies:
    ```bash
