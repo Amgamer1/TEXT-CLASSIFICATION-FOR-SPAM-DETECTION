@@ -49,7 +49,7 @@ These datasets are included repository
   - Stored as 'Spam.csv' for SMS Spam Collection
   - Stored as 'Spamhamdata.csv' for Spam-Ham Dataset
   - Stored as 'Spambase.data' for Spambase Dataset
-- **Models used**:
+- **Model files needed**:
   - nb_model_spam.pkl
   - nb_model_spamham.pkl
   - nb_model_spambase.pkl
