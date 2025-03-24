@@ -71,7 +71,8 @@ These datasets are included repository
 ## How to Run
 1. Clone the repository:
    ```bash
-   https://github.com/Amgamer1/TEXT-CLASSIFICATION-FOR-SPAM-DETECTION.git
+    git clone https://github.com/Amgamer1/TEXT-CLASSIFICATION-FOR-SPAM-DETECTION.git
+    cd TEXT-CLASSIFICATION-FOR-SPAM-DETECTION
    ```
 2. Install dependencies:
    ```bash
